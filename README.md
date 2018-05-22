@@ -5,3 +5,7 @@ Board Contains
 * H-Bridge to control direction of current through thermoelectic pads
 * 5 MOSFET's to drive solenoids and pumps
 * 2 Voltage dividers for analog inputs from Thermistor and FSR
+
+
+
+![alt text](https://github.com/daxinman/capstone/blob/master/board.JPG)
