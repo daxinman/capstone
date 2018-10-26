@@ -9,3 +9,7 @@ Board Contains
 
 
 ![alt text](https://github.com/daxinman/capstone/blob/master/board.JPG)
+
+# Project Presentation
+
+![alt text](https://github.com/daxinman/capstone/blob/master/presentation.JPG)
