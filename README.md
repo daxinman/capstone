@@ -12,4 +12,4 @@ Board Contains
 
 # Project Presentation
 
-![alt text](https://github.com/daxinman/capstone/blob/master/presentation.JPG)
+![alt text](https://github.com/daxinman/capstone/blob/master/presentation.png)
